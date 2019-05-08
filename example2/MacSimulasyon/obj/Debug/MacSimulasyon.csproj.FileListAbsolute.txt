@@ -1,0 +1,14 @@
+C:\Users\Evren Vural\source\repos\MacSimulasyon\MacSimulasyon\bin\Debug\MacSimulasyon.exe.config
+C:\Users\Evren Vural\source\repos\MacSimulasyon\MacSimulasyon\bin\Debug\MacSimulasyon.exe
+C:\Users\Evren Vural\source\repos\MacSimulasyon\MacSimulasyon\bin\Debug\MacSimulasyon.pdb
+C:\Users\Evren Vural\source\repos\MacSimulasyon\MacSimulasyon\obj\Debug\MacSimulasyon.csprojAssemblyReference.cache
+C:\Users\Evren Vural\source\repos\MacSimulasyon\MacSimulasyon\obj\Debug\MacSimulasyon.csproj.CoreCompileInputs.cache
+C:\Users\Evren Vural\source\repos\MacSimulasyon\MacSimulasyon\obj\Debug\MacSimulasyon.exe
+C:\Users\Evren Vural\source\repos\MacSimulasyon\MacSimulasyon\obj\Debug\MacSimulasyon.pdb
+C:\Users\Evren Vural\Desktop\G181210373_2C_odev2\MacSimulasyon\bin\Debug\MacSimulasyon.exe.config
+C:\Users\Evren Vural\Desktop\G181210373_2C_odev2\MacSimulasyon\bin\Debug\MacSimulasyon.exe
+C:\Users\Evren Vural\Desktop\G181210373_2C_odev2\MacSimulasyon\bin\Debug\MacSimulasyon.pdb
+C:\Users\Evren Vural\Desktop\G181210373_2C_odev2\MacSimulasyon\obj\Debug\MacSimulasyon.csprojAssemblyReference.cache
+C:\Users\Evren Vural\Desktop\G181210373_2C_odev2\MacSimulasyon\obj\Debug\MacSimulasyon.csproj.CoreCompileInputs.cache
+C:\Users\Evren Vural\Desktop\G181210373_2C_odev2\MacSimulasyon\obj\Debug\MacSimulasyon.exe
+C:\Users\Evren Vural\Desktop\G181210373_2C_odev2\MacSimulasyon\obj\Debug\MacSimulasyon.pdb
